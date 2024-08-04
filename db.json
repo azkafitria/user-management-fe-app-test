@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Asep",
+      "address": "Nagrek",
+      "gender": "Pria",
+      "date_of_birth": "1990-05-03",
+      "created_at": "2023-01-26T04:04:00Z"
+    },
+    {
+      "id": "2",
+      "name": "Septian",
+      "address": "Bandung",
+      "gender": "Pria",
+      "date_of_birth": "1990-09-28",
+      "created_at": "2023-01-26T05:22:00Z"
+    }
+  ]
+}
